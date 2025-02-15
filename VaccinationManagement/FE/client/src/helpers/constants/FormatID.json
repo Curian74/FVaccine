@@ -1,0 +1,12 @@
+{
+  "Employee": "EM000000",
+  "Customer": "CM000000",
+  "Vaccine": "VC000000",
+  "VaccineType": "VT000000",
+  "VaccinationSchedule": "VS000000",
+  "VaccinationResult": "VR000000",
+  "News": "NW000000",
+  "Reports": "RP000000",
+  "Place": "PL000000",
+  "Menu": "M0000"
+}

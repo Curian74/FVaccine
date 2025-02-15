@@ -1,0 +1,3 @@
+interface UploadImageResponse{
+    path:  string;
+}

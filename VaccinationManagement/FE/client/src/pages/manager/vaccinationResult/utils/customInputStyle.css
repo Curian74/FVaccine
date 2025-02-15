@@ -1,0 +1,12 @@
+.readOnlyInput input { 
+  background-color: #f0f0f0 !important;
+}
+
+.full-width-input .field {
+  width: 100% !important;
+}
+
+.full-width-input input {
+  width: 100% !important;
+}
+
