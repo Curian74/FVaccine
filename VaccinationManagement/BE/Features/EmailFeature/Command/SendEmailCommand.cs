@@ -27,7 +27,6 @@ namespace VaccinationManagement.Features.EmailFeature.Command
 
 		public async Task<bool> Handle(SendEmailCommand command)
 		{
-			//LOL
 			var apiKey = _emailConfig.Key;
 			var client = new SendGridClient(apiKey);
 			var from = new EmailAddress(_emailConfig.OwnerMail, _emailConfig.Company);
